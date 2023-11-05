@@ -5,4 +5,4 @@
 this is a **repo** for testing github activities
 1. this is a numbered list
 2. second numbered list
-add somthing to my read me to test for a pull request
+add something to my read me to test for a pull request (just kidding this is a suggestion)
